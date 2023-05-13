@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2333272690
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: models.cube
+      Dependencies: {}
+    Info_1:
+      Name: characters.lopoly
+      Dependencies: {}
